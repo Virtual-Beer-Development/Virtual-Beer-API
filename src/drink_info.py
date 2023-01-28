@@ -1,5 +1,5 @@
 import requests
-import json
+
 
 def get_drink(a):
     api_url = "https://www.thecocktaildb.com/api/json/v1/1/search.php?s="
